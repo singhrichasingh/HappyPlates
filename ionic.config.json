@@ -1,5 +1,7 @@
 {
-  "name": "happyPlates",
-  "integrations": {},
-  "type": "react"
+  "name": "happyplates",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
 }
